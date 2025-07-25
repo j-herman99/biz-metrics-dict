@@ -1,12 +1,13 @@
 
 # 📘 SaaS Metrics & Business Analytics Dictionary
 
-![Built With: Excel](https://img.shields.io/badge/Built%20With-Excel-blue)
-![Status: In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow)
-![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue)
-![Focus: KPI Definitions](https://img.shields.io/badge/Focus-KPI%20Definitions-orange)
-![Use Case: Data Teams](https://img.shields.io/badge/Use%20Case-Data%20%26%20Analytics%20Teams-lightgrey)
-![Format: Lookup Workbook](https://img.shields.io/badge/Format-Metrics%20Lookup%20Workbook-informational)
+![Built With: Excel](https://img.shields.io/badge/Built%20With-Excel-0284c7?style=flat&labelColor=333&logo=microsoft-excel&logoColor=white)
+![Status: In Progress](https://img.shields.io/badge/Status-In%20Progress-f7dd6d?style=flat&labelColor=333)
+![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-f59e0b?style=flat&labelColor=333)
+![Focus: KPI Definitions](https://img.shields.io/badge/Focus-KPI%20Definitions-14b8a6?style=flat&labelColor=333)
+![Use Case: Data & Analytics Teams](https://img.shields.io/badge/Use%20Case-Data%20%26%20Analytics%20Teams-7dd3fc?style=flat&labelColor=333)
+![Format: Metrics Lookup Workbook](https://img.shields.io/badge/Format-Metrics%20Lookup%20Workbook-8b5cf6?style=flat&labelColor=333)
+
 
 This repository provides a reference-ready dictionary of essential SaaS and business performance metrics used across data analytics, financial modeling, and executive reporting workflows.
 
